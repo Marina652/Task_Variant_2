@@ -22,7 +22,7 @@ namespace Task_V2
         }
         private void Message_Click(object sender, RoutedEventArgs e)
         {
-            string p1 = @"D:\Epam\Task_V2\Task_V2\Task_V2\TextFile1.txt";
+            string p1 = @"TextFile1.txt";
             WorkWithFile rd = new WorkWithFile(p1);
             _ = new TrafficPolicePost[rd.QntLine()];
             TrafficPolicePost[] trafficPolicePosts = rd.WriteToFile();
