@@ -1,0 +1,14 @@
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\Task_V2.csprojAssemblyReference.cache
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\MainWindow.baml
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\MainWindow.g.cs
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\App.g.cs
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\Task_V2_MarkupCompile.cache
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\Task_V2.g.resources
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\Task_V2.Properties.Resources.resources
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\Task_V2.csproj.GenerateResource.cache
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\Task_V2.csproj.CoreCompileInputs.cache
+D:\Epam\Task_V2\Task_V2\Task_V2\bin\Debug\Task_V2.exe.config
+D:\Epam\Task_V2\Task_V2\Task_V2\bin\Debug\Task_V2.exe
+D:\Epam\Task_V2\Task_V2\Task_V2\bin\Debug\Task_V2.pdb
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\Task_V2.exe
+D:\Epam\Task_V2\Task_V2\Task_V2\obj\Debug\Task_V2.pdb
